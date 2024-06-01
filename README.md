@@ -20,6 +20,6 @@ Vítejte v ukázce kódu z učebnice C++! Tento kód poskytuje příklady zákla
 
 * Po prozkoumání můžete kdykoli zadat „ano“, abyste se vrátili zpět a vybrali si další možnost.
 
-Poznámka:
+<h4>Poznámka:</h4>
 
 Tento kód je pouze demonstrační a slouží k ilustraci různých konceptů jazyka C++. Pro hlubší porozumění doporučujeme konzultovat doprovodnou učebnici.
