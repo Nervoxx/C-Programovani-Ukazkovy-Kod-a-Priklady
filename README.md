@@ -7,6 +7,7 @@ Vítejte v ukázce kódu z učebnice C++! Tento kód poskytuje příklady zákla
 *Cykly a podmínky: Ilustrace syntaxe a použití for cyklu, while cyklu, if podmínky a switch podmínky.
 *Proměnné typu string: Příklady použití proměnných typu string pro práci s textovými hodnotami.
 *Komentáře: Ukázka jednořádkových a víceřádkových komentářů a jejich významu v kódu.
+
 **Použití:**
 *Každá možnost v menu odpovídá jednomu tématu z učebnice. Vyberte číslo, abyste viděli příklady kódu a vysvětlení k danému tématu.
 *Po prozkoumání můžete kdykoli zadat „ano“, abyste se vrátili zpět a vybrali si další možnost.
