@@ -1,8 +1,8 @@
-**Učebnice C++: Ukázka Kódu**
+<h1>Učebnice C++: Ukázka Kódu</h1>
 
 Vítejte v ukázce kódu z učebnice C++! Tento kód poskytuje příklady základních prvků jazyka C++ a ukazuje jejich použití v různých situacích.
 
-**Klíčové rysy:**
+<h2>Klíčové rysy:</h2>
 
 * Funkce: Ukázka různých typů funkcí včetně jejich deklarace, definice a použití.
 
@@ -14,7 +14,7 @@ Vítejte v ukázce kódu z učebnice C++! Tento kód poskytuje příklady zákla
 
 * Komentáře: Ukázka jednořádkových a víceřádkových komentářů a jejich významu v kódu.
 
-**Použití:**
+<h2>Použití:</h2>
 
 * Každá možnost v menu odpovídá jednomu tématu z učebnice. Vyberte číslo, abyste viděli příklady kódu a vysvětlení k danému tématu.
 
